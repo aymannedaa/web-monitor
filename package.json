@@ -1,0 +1,15 @@
+{
+  "name": "web-monitor",
+  "version": "1.0.0",
+  "description": "Monitors a list of web pages periodically",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ayman",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "node-cron": "^2.0.3"
+  }
+}

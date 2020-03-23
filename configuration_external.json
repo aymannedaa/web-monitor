@@ -1,0 +1,7 @@
+[
+    {"url": "http://httpstat.us","content": "OK"},
+    {"url": "http://httpstat.us/500?sleep=1000","content": "NO CONTENT!"},
+    {"url": "http://google.com","content": "Google"},
+    {"url": "http://bing.com","content": "Bing"},
+    {"url": "https://www.google.com/asdfvdsafvadsd","content": "NO CONTENT!"}
+]
